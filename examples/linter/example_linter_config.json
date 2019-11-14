@@ -19,8 +19,8 @@
 
     "output": {
         "csv": {
-            "file_output": "linter_file_report.csv",
-            "field_output": "linter_field_report.csv"
+            "file_output": "linter_file_report_laura.csv",
+            "field_output": "linter_field_report_laura.csv"
         }
     }
 }
